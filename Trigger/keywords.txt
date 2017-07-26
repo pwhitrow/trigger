@@ -1,0 +1,5 @@
+Trigger			KEYWORD1
+triggerDown		KEYWORD1
+triggerUp		KEYWORD1
+triggerLongPress	KEYWORD1
+readTrigger		KEYWORD2
